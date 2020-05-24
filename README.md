@@ -1,6 +1,6 @@
 # strtod
 
-This code is written for Vim to add locale-undepended strtod(3).
+This code was written to add locale-undepended strtod(3) on Vim.
 
 ## License
 
